@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="NTAutomation">
+    <!--<listeners>-->
+        <!--<listener class-name="com.fa.nt.report.ExtentReport" />-->
+    <!--</listeners>-->
+    <parameter name="browser" value="FIREFOX"/>
+    <test name="Test" allow-return-values="true">
+        <classes>
+            <class name="com.fa.ort.testscripts.login.TC_Login"/>
+        </classes>
+    </test>
+</suite>
