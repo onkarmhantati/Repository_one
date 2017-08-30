@@ -12,7 +12,7 @@ import org.openqa.selenium.WebElement;
  */
 public class PageControl extends GuiControl{
 
-    public static GuiControl loader =new GuiControl(getElementConfig("loader"));
+    //public static GuiControl loader =new GuiControl(getElementConfig("loader"));
 
         public final static Config getElementConfig(String skey){
             StackTraceElement[] elements=Thread.currentThread().getStackTrace();

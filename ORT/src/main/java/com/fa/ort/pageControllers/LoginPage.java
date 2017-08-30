@@ -9,8 +9,8 @@ import org.apache.log4j.Logger;
 public class LoginPage extends PageControl {
     public static Logger logger =Logger.getLogger(LoginPage.class);
 
-    public static GuiControl txtUserName=new GuiControl(getElementConfig("username"));
-    public static GuiControl txtPassword =new GuiControl((getElementConfig("password")));
+    public static GuiControl txtUserName=new GuiControl(getElementConfig("txtUserName"));
+    public static GuiControl txtPassword =new GuiControl((getElementConfig("txtPassword")));
     public static GuiControl btnLogin=new GuiControl(getElementConfig("btnLogin"));
 
 
@@ -23,6 +23,4 @@ public class LoginPage extends PageControl {
         logger.info("Entered Password: "+password);
         btnLogin.click();
     }
-
-
 }
