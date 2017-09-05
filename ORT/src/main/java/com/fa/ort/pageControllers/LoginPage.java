@@ -15,12 +15,19 @@ public class LoginPage extends PageControl {
 
 
     public static void login(String username,String password){
-        logger.info("Inside Login Method");
-        txtUserName.waitForElementToVisible(10);
-        txtUserName.setText(username);
-        logger.info("Entered UserName: "+username);
-        txtPassword.setText(password);
-        logger.info("Entered Password: "+password);
-        btnLogin.click();
+        try {
+            logger.info("Inside Login Method");
+            txtUserName.waitForElementToVisible(10);
+            txtUserName.setText(username);
+            Thread.sleep(2000);
+            logger.info("Entered UserName: " + username);
+            txtPassword.setText(password);
+            Thread.sleep(2000);
+            logger.info("Entered Password: " + password);
+            btnLogin.click();
+            Thread.sleep(2000);
+        }catch (Exception e){
+
+        }
     }
 }

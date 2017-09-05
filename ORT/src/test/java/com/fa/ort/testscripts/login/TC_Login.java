@@ -18,8 +18,11 @@ public class TC_Login extends Test_templet {
         boolean result = true;
         try {
             LoginPage.login(username, password);
+
             System.out.println("Login successfully....");
+
             logger.info("Login successfully done!!!!!!");
+
         } catch (Exception e) {
             result = false;
             logger.info("Context: ", e);
