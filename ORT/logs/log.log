@@ -365,3 +365,249 @@ java.lang.IllegalMonitorStateException
 2017-08-30 15:25:05 INFO  Test_templet:67 - Inside After Method method
 2017-08-30 15:25:05 INFO  Test_templet:72 - Inside After Class Method
 2017-08-30 15:25:05 INFO  Test_templet:80 - Inside afterTest method
+2017-09-07 16:58:58 INFO  PropertyFileReader:27 - Inside getPropertyData Mathod
+2017-09-07 16:58:58 INFO  PropertyFileReader:33 - Adding data into config map
+2017-09-07 16:58:58 INFO  Test_templet:36 - Inside Before Suit method
+2017-09-07 16:58:58 INFO  Test_templet:42 - Browser is : Firefox
+2017-09-07 16:58:58 INFO  Test_templet:49 - Inside Before Test method
+2017-09-07 16:58:58 INFO  Test_templet:55 - Inside Before Class method
+2017-09-07 16:59:09 INFO  Test_templet:64 - Inside Before Method method
+2017-09-07 16:59:09 INFO  LoginPage:19 - Inside Login Method
+2017-09-07 16:59:11 INFO  LoginPage:23 - Entered UserName: 
+2017-09-07 16:59:13 INFO  LoginPage:26 - Entered Password: 
+2017-09-07 16:59:16 INFO  TC_Login:24 - Login successfully done!!!!!!
+2017-09-07 16:59:16 INFO  Test_templet:67 - Inside After Method method
+2017-09-07 16:59:16 INFO  Test_templet:64 - Inside Before Method method
+2017-09-07 16:59:16 INFO  LoginPage:19 - Inside Login Method
+2017-09-07 16:59:18 INFO  LoginPage:23 - Entered UserName: username
+2017-09-07 16:59:20 INFO  LoginPage:26 - Entered Password: 
+2017-09-07 16:59:23 INFO  TC_Login:24 - Login successfully done!!!!!!
+2017-09-07 16:59:23 INFO  Test_templet:67 - Inside After Method method
+2017-09-07 16:59:23 INFO  Test_templet:64 - Inside Before Method method
+2017-09-07 16:59:23 INFO  LoginPage:19 - Inside Login Method
+2017-09-07 16:59:25 INFO  LoginPage:23 - Entered UserName: 
+2017-09-07 16:59:27 INFO  LoginPage:26 - Entered Password: password
+2017-09-07 16:59:30 INFO  TC_Login:24 - Login successfully done!!!!!!
+2017-09-07 16:59:30 INFO  Test_templet:67 - Inside After Method method
+2017-09-07 16:59:30 INFO  Test_templet:72 - Inside After Class Method
+2017-09-07 16:59:30 INFO  Test_templet:80 - Inside afterTest method
+2017-09-20 18:19:40 INFO  PropertyFileReader:27 - Inside getPropertyData Mathod
+2017-09-20 18:19:40 INFO  PropertyFileReader:33 - Adding data into config map
+2017-09-20 18:19:40 INFO  Test_templet:36 - Inside Before Suit method
+2017-09-20 18:19:40 INFO  Test_templet:42 - Browser is : Firefox
+2017-09-20 18:19:40 INFO  Test_templet:49 - Inside Before Test method
+2017-09-20 18:19:40 INFO  Test_templet:55 - Inside Before Class method
+2017-09-20 18:19:51 INFO  Test_templet:64 - Inside Before Method method
+2017-09-20 18:19:51 INFO  LoginPage:19 - Inside Login Method
+2017-09-20 18:19:53 INFO  LoginPage:23 - Entered UserName: 
+2017-09-20 18:19:55 INFO  LoginPage:26 - Entered Password: 
+2017-09-20 18:19:58 INFO  TC_Login:24 - Login successfully done!!!!!!
+2017-09-20 18:19:58 INFO  Test_templet:67 - Inside After Method method
+2017-09-20 18:19:58 INFO  Test_templet:64 - Inside Before Method method
+2017-09-20 18:19:58 INFO  LoginPage:19 - Inside Login Method
+2017-09-20 18:20:00 INFO  LoginPage:23 - Entered UserName: username
+2017-09-20 18:20:02 INFO  LoginPage:26 - Entered Password: 
+2017-09-20 18:20:05 INFO  TC_Login:24 - Login successfully done!!!!!!
+2017-09-20 18:20:05 INFO  Test_templet:67 - Inside After Method method
+2017-09-20 18:20:05 INFO  Test_templet:64 - Inside Before Method method
+2017-09-20 18:20:05 INFO  LoginPage:19 - Inside Login Method
+2017-09-20 18:20:07 INFO  LoginPage:23 - Entered UserName: 
+2017-09-20 18:20:09 INFO  LoginPage:26 - Entered Password: password
+2017-09-20 18:20:11 INFO  TC_Login:24 - Login successfully done!!!!!!
+2017-09-20 18:20:11 INFO  Test_templet:67 - Inside After Method method
+2017-09-20 18:20:11 INFO  Test_templet:72 - Inside After Class Method
+2017-09-20 18:20:12 INFO  Test_templet:80 - Inside afterTest method
+2017-10-03 08:16:34 INFO  PropertyFileReader:27 - Inside getPropertyData Mathod
+2017-10-03 08:16:34 INFO  PropertyFileReader:33 - Adding data into config map
+2017-10-03 08:16:34 INFO  Test_templet:36 - Inside Before Suit method
+2017-10-03 08:16:34 INFO  Test_templet:42 - Browser is : Firefox
+2017-10-03 08:16:34 INFO  Test_templet:49 - Inside Before Test method
+2017-10-03 08:16:34 INFO  Test_templet:55 - Inside Before Class method
+2017-10-03 08:16:48 INFO  Test_templet:64 - Inside Before Method method
+2017-10-03 08:16:48 INFO  LoginPage:19 - Inside Login Method
+2017-10-03 08:16:51 INFO  LoginPage:23 - Entered UserName: 
+2017-10-03 08:16:53 INFO  LoginPage:26 - Entered Password: 
+2017-10-03 08:16:55 INFO  TC_Login:24 - Login successfully done!!!!!!
+2017-10-03 08:16:55 INFO  Test_templet:67 - Inside After Method method
+2017-10-03 08:16:55 INFO  Test_templet:64 - Inside Before Method method
+2017-10-03 08:16:55 INFO  LoginPage:19 - Inside Login Method
+2017-10-03 08:16:58 INFO  LoginPage:23 - Entered UserName: username
+2017-10-03 08:17:00 INFO  LoginPage:26 - Entered Password: 
+2017-10-03 08:17:02 INFO  TC_Login:24 - Login successfully done!!!!!!
+2017-10-03 08:17:02 INFO  Test_templet:67 - Inside After Method method
+2017-10-03 08:17:02 INFO  Test_templet:64 - Inside Before Method method
+2017-10-03 08:17:02 INFO  LoginPage:19 - Inside Login Method
+2017-10-03 08:17:04 INFO  LoginPage:23 - Entered UserName: 
+2017-10-03 08:17:06 INFO  LoginPage:26 - Entered Password: password
+2017-10-03 08:17:09 INFO  TC_Login:24 - Login successfully done!!!!!!
+2017-10-03 08:17:09 INFO  Test_templet:67 - Inside After Method method
+2017-10-03 08:17:09 INFO  Test_templet:72 - Inside After Class Method
+2017-10-03 08:17:09 INFO  Test_templet:80 - Inside afterTest method
+2017-10-03 08:18:59 INFO  PropertyFileReader:27 - Inside getPropertyData Mathod
+2017-10-03 08:18:59 INFO  PropertyFileReader:33 - Adding data into config map
+2017-10-03 08:18:59 INFO  Test_templet:36 - Inside Before Suit method
+2017-10-03 08:18:59 INFO  Test_templet:42 - Browser is : Firefox
+2017-10-03 08:18:59 INFO  Test_templet:49 - Inside Before Test method
+2017-10-03 08:18:59 INFO  Test_templet:55 - Inside Before Class method
+2017-10-03 08:19:06 INFO  Test_templet:64 - Inside Before Method method
+2017-10-03 08:19:06 INFO  LoginPage:19 - Inside Login Method
+2017-10-03 08:19:08 INFO  LoginPage:23 - Entered UserName: 
+2017-10-03 08:19:10 INFO  LoginPage:26 - Entered Password: 
+2017-10-03 08:19:14 INFO  TC_Login:25 - Login successfully done!!!!!!
+2017-10-03 08:19:14 INFO  Test_templet:67 - Inside After Method method
+2017-10-03 08:19:14 INFO  Test_templet:64 - Inside Before Method method
+2017-10-03 08:19:14 INFO  LoginPage:19 - Inside Login Method
+2017-10-03 08:19:17 INFO  LoginPage:23 - Entered UserName: username
+2017-10-03 08:19:19 INFO  LoginPage:26 - Entered Password: 
+2017-10-03 08:19:23 INFO  TC_Login:25 - Login successfully done!!!!!!
+2017-10-03 08:19:23 INFO  Test_templet:67 - Inside After Method method
+2017-10-03 08:19:23 INFO  Test_templet:64 - Inside Before Method method
+2017-10-03 08:19:23 INFO  LoginPage:19 - Inside Login Method
+2017-10-03 08:19:25 INFO  LoginPage:23 - Entered UserName: 
+2017-10-03 08:19:27 INFO  LoginPage:26 - Entered Password: password
+2017-10-03 08:19:32 INFO  TC_Login:25 - Login successfully done!!!!!!
+2017-10-03 08:19:32 INFO  Test_templet:67 - Inside After Method method
+2017-10-03 08:19:32 INFO  Test_templet:72 - Inside After Class Method
+2017-10-03 08:19:32 INFO  Test_templet:80 - Inside afterTest method
+2017-10-03 08:20:34 INFO  PropertyFileReader:27 - Inside getPropertyData Mathod
+2017-10-03 08:20:34 INFO  PropertyFileReader:33 - Adding data into config map
+2017-10-03 08:20:34 INFO  Test_templet:36 - Inside Before Suit method
+2017-10-03 08:20:34 INFO  Test_templet:42 - Browser is : Firefox
+2017-10-03 08:20:34 INFO  Test_templet:49 - Inside Before Test method
+2017-10-03 08:20:34 INFO  Test_templet:55 - Inside Before Class method
+2017-10-03 08:20:40 INFO  Test_templet:64 - Inside Before Method method
+2017-10-03 08:20:40 INFO  LoginPage:19 - Inside Login Method
+2017-10-03 08:20:42 INFO  LoginPage:23 - Entered UserName: 
+2017-10-03 08:20:44 INFO  LoginPage:26 - Entered Password: 
+2017-10-03 08:20:49 INFO  TC_Login:25 - Login successfully done!!!!!!
+2017-10-03 08:20:49 INFO  Test_templet:67 - Inside After Method method
+2017-10-03 08:20:49 INFO  Test_templet:64 - Inside Before Method method
+2017-10-03 08:20:49 INFO  LoginPage:19 - Inside Login Method
+2017-10-03 08:20:51 INFO  LoginPage:23 - Entered UserName: username
+2017-10-03 08:20:53 INFO  LoginPage:26 - Entered Password: 
+2017-10-03 08:20:57 INFO  TC_Login:25 - Login successfully done!!!!!!
+2017-10-03 08:20:57 INFO  Test_templet:67 - Inside After Method method
+2017-10-03 08:20:57 INFO  Test_templet:64 - Inside Before Method method
+2017-10-03 08:20:57 INFO  LoginPage:19 - Inside Login Method
+2017-10-03 08:21:00 INFO  LoginPage:23 - Entered UserName: 
+2017-10-03 08:21:02 INFO  LoginPage:26 - Entered Password: password
+2017-10-03 08:21:06 INFO  TC_Login:25 - Login successfully done!!!!!!
+2017-10-03 08:21:06 INFO  Test_templet:67 - Inside After Method method
+2017-10-03 08:21:06 INFO  Test_templet:72 - Inside After Class Method
+2017-10-03 08:21:11 INFO  Test_templet:81 - Inside afterTest method
+2017-10-03 08:24:21 INFO  PropertyFileReader:27 - Inside getPropertyData Mathod
+2017-10-03 08:24:21 INFO  PropertyFileReader:33 - Adding data into config map
+2017-10-03 08:24:21 INFO  Test_templet:36 - Inside Before Suit method
+2017-10-03 08:24:21 INFO  Test_templet:42 - Browser is : Chrome
+2017-10-03 08:24:21 INFO  Test_templet:49 - Inside Before Test method
+2017-10-03 08:24:21 INFO  Test_templet:55 - Inside Before Class method
+2017-10-03 08:24:28 INFO  Test_templet:64 - Inside Before Method method
+2017-10-03 08:24:28 INFO  LoginPage:19 - Inside Login Method
+2017-10-03 08:24:30 INFO  LoginPage:23 - Entered UserName: 
+2017-10-03 08:24:33 INFO  LoginPage:26 - Entered Password: 
+2017-10-03 08:24:37 INFO  TC_Login:25 - Login successfully done!!!!!!
+2017-10-03 08:24:37 INFO  Test_templet:67 - Inside After Method method
+2017-10-03 08:24:37 INFO  Test_templet:64 - Inside Before Method method
+2017-10-03 08:24:37 INFO  LoginPage:19 - Inside Login Method
+2017-10-03 08:24:39 INFO  LoginPage:23 - Entered UserName: username
+2017-10-03 08:24:41 INFO  LoginPage:26 - Entered Password: 
+2017-10-03 08:24:46 INFO  TC_Login:25 - Login successfully done!!!!!!
+2017-10-03 08:24:46 INFO  Test_templet:67 - Inside After Method method
+2017-10-03 08:24:46 INFO  Test_templet:64 - Inside Before Method method
+2017-10-03 08:24:46 INFO  LoginPage:19 - Inside Login Method
+2017-10-03 08:24:48 INFO  LoginPage:23 - Entered UserName: 
+2017-10-03 08:24:50 INFO  LoginPage:26 - Entered Password: password
+2017-10-03 08:24:54 INFO  TC_Login:25 - Login successfully done!!!!!!
+2017-10-03 08:24:54 INFO  Test_templet:67 - Inside After Method method
+2017-10-03 08:24:54 INFO  Test_templet:72 - Inside After Class Method
+2017-10-03 08:24:59 INFO  Test_templet:81 - Inside afterTest method
+2017-10-03 08:25:25 INFO  PropertyFileReader:27 - Inside getPropertyData Mathod
+2017-10-03 08:25:25 INFO  PropertyFileReader:33 - Adding data into config map
+2017-10-03 08:25:25 INFO  Test_templet:36 - Inside Before Suit method
+2017-10-03 08:25:25 INFO  Test_templet:42 - Browser is : Chrome
+2017-10-03 08:25:25 INFO  Test_templet:49 - Inside Before Test method
+2017-10-03 08:25:25 INFO  Test_templet:55 - Inside Before Class method
+2017-10-03 08:25:30 INFO  Test_templet:64 - Inside Before Method method
+2017-10-03 08:25:30 INFO  LoginPage:19 - Inside Login Method
+2017-10-03 08:25:32 INFO  LoginPage:23 - Entered UserName: 
+2017-10-03 08:25:34 INFO  LoginPage:26 - Entered Password: 
+2017-10-03 08:25:39 INFO  TC_Login:25 - Login successfully done!!!!!!
+2017-10-03 08:25:39 INFO  Test_templet:67 - Inside After Method method
+2017-10-03 08:25:39 INFO  Test_templet:64 - Inside Before Method method
+2017-10-03 08:25:39 INFO  LoginPage:19 - Inside Login Method
+2017-10-03 08:25:41 INFO  LoginPage:23 - Entered UserName: onkar.mhantati
+2017-10-03 08:25:43 INFO  LoginPage:26 - Entered Password: 
+2017-10-03 08:25:48 INFO  TC_Login:25 - Login successfully done!!!!!!
+2017-10-03 08:25:48 INFO  Test_templet:67 - Inside After Method method
+2017-10-03 08:25:48 INFO  Test_templet:64 - Inside Before Method method
+2017-10-03 08:25:48 INFO  LoginPage:19 - Inside Login Method
+2017-10-03 08:25:50 INFO  LoginPage:23 - Entered UserName: 
+2017-10-03 08:25:52 INFO  LoginPage:26 - Entered Password: onkar.m##$
+2017-10-03 08:25:56 INFO  TC_Login:25 - Login successfully done!!!!!!
+2017-10-03 08:25:56 INFO  Test_templet:67 - Inside After Method method
+2017-10-03 08:25:56 INFO  Test_templet:72 - Inside After Class Method
+2017-10-03 08:26:01 INFO  Test_templet:81 - Inside afterTest method
+2017-10-03 08:26:45 INFO  PropertyFileReader:27 - Inside getPropertyData Mathod
+2017-10-03 08:26:45 INFO  PropertyFileReader:33 - Adding data into config map
+2017-10-03 08:26:46 INFO  Test_templet:36 - Inside Before Suit method
+2017-10-03 08:26:46 INFO  Test_templet:42 - Browser is : Chrome
+2017-10-03 08:26:46 INFO  Test_templet:49 - Inside Before Test method
+2017-10-03 08:26:46 INFO  Test_templet:55 - Inside Before Class method
+2017-10-03 08:26:50 INFO  Test_templet:64 - Inside Before Method method
+2017-10-03 08:26:50 INFO  LoginPage:19 - Inside Login Method
+2017-10-03 08:26:52 INFO  LoginPage:23 - Entered UserName: 
+2017-10-03 08:26:55 INFO  LoginPage:26 - Entered Password: 
+2017-10-03 08:26:59 INFO  TC_Login:25 - Login successfully done!!!!!!
+2017-10-03 08:26:59 INFO  Test_templet:67 - Inside After Method method
+2017-10-03 08:26:59 INFO  Test_templet:64 - Inside Before Method method
+2017-10-03 08:26:59 INFO  LoginPage:19 - Inside Login Method
+2017-10-03 08:27:01 INFO  LoginPage:23 - Entered UserName: onkar.mhantati
+2017-10-03 08:27:03 INFO  LoginPage:26 - Entered Password: 
+2017-10-03 08:27:08 INFO  TC_Login:25 - Login successfully done!!!!!!
+2017-10-03 08:27:08 INFO  Test_templet:67 - Inside After Method method
+2017-10-03 08:27:08 INFO  Test_templet:64 - Inside Before Method method
+2017-10-03 08:27:08 INFO  LoginPage:19 - Inside Login Method
+2017-10-03 08:27:10 INFO  LoginPage:23 - Entered UserName: 
+2017-10-03 08:27:12 INFO  LoginPage:26 - Entered Password: onkar.m##$
+2017-10-03 08:27:16 INFO  TC_Login:25 - Login successfully done!!!!!!
+2017-10-03 08:27:16 INFO  Test_templet:67 - Inside After Method method
+2017-10-03 08:27:16 INFO  Test_templet:64 - Inside Before Method method
+2017-10-03 08:27:16 INFO  LoginPage:19 - Inside Login Method
+2017-10-03 08:27:19 INFO  LoginPage:23 - Entered UserName: onkar.mhantati
+2017-10-03 08:27:21 INFO  LoginPage:26 - Entered Password: onkar.m##$
+2017-10-03 08:27:27 INFO  TC_Login:25 - Login successfully done!!!!!!
+2017-10-03 08:27:27 INFO  Test_templet:67 - Inside After Method method
+2017-10-03 08:27:27 INFO  Test_templet:72 - Inside After Class Method
+2017-10-03 08:27:32 INFO  Test_templet:81 - Inside afterTest method
+2017-10-03 08:58:18 INFO  PropertyFileReader:27 - Inside getPropertyData Mathod
+2017-10-03 08:58:18 INFO  PropertyFileReader:33 - Adding data into config map
+2017-10-03 08:58:18 INFO  Test_templet:36 - Inside Before Suit method
+2017-10-03 08:58:18 INFO  Test_templet:42 - Browser is : Chrome
+2017-10-03 08:58:18 INFO  Test_templet:49 - Inside Before Test method
+2017-10-03 08:58:18 INFO  Test_templet:55 - Inside Before Class method
+2017-10-03 08:58:23 INFO  Test_templet:64 - Inside Before Method method
+2017-10-03 08:58:23 INFO  LoginPage:19 - Inside Login Method
+2017-10-03 08:58:25 INFO  LoginPage:23 - Entered UserName: 
+2017-10-03 08:58:27 INFO  LoginPage:26 - Entered Password: 
+2017-10-03 08:58:32 INFO  TC_Login:25 - Login successfully done!!!!!!
+2017-10-03 08:58:32 INFO  Test_templet:67 - Inside After Method method
+2017-10-03 08:58:32 INFO  Test_templet:64 - Inside Before Method method
+2017-10-03 08:58:32 INFO  LoginPage:19 - Inside Login Method
+2017-10-03 08:58:34 INFO  LoginPage:23 - Entered UserName: onkar.mhantati
+2017-10-03 08:58:36 INFO  LoginPage:26 - Entered Password: 
+2017-10-03 08:58:40 INFO  TC_Login:25 - Login successfully done!!!!!!
+2017-10-03 08:58:40 INFO  Test_templet:67 - Inside After Method method
+2017-10-03 08:58:40 INFO  Test_templet:64 - Inside Before Method method
+2017-10-03 08:58:40 INFO  LoginPage:19 - Inside Login Method
+2017-10-03 08:58:43 INFO  LoginPage:23 - Entered UserName: 
+2017-10-03 08:58:45 INFO  LoginPage:26 - Entered Password: onkar.m##$
+2017-10-03 08:58:49 INFO  TC_Login:25 - Login successfully done!!!!!!
+2017-10-03 08:58:49 INFO  Test_templet:67 - Inside After Method method
+2017-10-03 08:58:49 INFO  Test_templet:64 - Inside Before Method method
+2017-10-03 08:58:49 INFO  LoginPage:19 - Inside Login Method
+2017-10-03 08:58:51 INFO  LoginPage:23 - Entered UserName: onkar.mhantati
+2017-10-03 08:58:53 INFO  LoginPage:26 - Entered Password: onkar.m##$
+2017-10-03 08:58:58 INFO  TC_Login:25 - Login successfully done!!!!!!
+2017-10-03 08:58:58 INFO  Test_templet:67 - Inside After Method method
+2017-10-03 08:58:58 INFO  Test_templet:72 - Inside After Class Method
+2017-10-03 08:59:04 INFO  Test_templet:81 - Inside afterTest method

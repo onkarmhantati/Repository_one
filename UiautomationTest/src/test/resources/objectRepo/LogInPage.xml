@@ -1,0 +1,5 @@
+<Elements>
+    <Element contrilName="UserName" locaterType="XPATH" locaterValue="abc"/>
+    <Element contrilName="Password" locaterType="XPATH" locaterValue="abc2"/>
+    <Element contrilName="ClickBut" locaterType="XPATH" locaterValue="abc3"/>
+</Elements>

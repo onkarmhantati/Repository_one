@@ -1,0 +1,8 @@
+
+<Elements>
+
+    <Element controlName="userName" locaterType="NAME" locaterValue="os_username"/>
+    <Element controlName="password" locaterType="NAME" locaterValue="os_password"/>
+    <Element controlName="clickbtn" locaterType="NAME" locaterValue="login"/>
+
+</Elements>

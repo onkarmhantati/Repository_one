@@ -1,0 +1,7 @@
+<Elements>
+
+    <Element controlName="userName" locatorType="XPATH" locatorValue="zxdcv"/>
+    <Element controlName="password" locatorType="XPATH" locatorValue="zxdwescv"/>
+    <Element controlName="clickBtn" locatorType="XPATH" locatorValue="zxdcsdcv"/>
+
+</Elements>

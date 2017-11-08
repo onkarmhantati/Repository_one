@@ -70,6 +70,7 @@ public class Test_templet {
     public void afterClass(){
         try{
             logger.info("Inside After Class Method");
+            Thread.sleep(5000);
             BrowserDriver.closeBrowser();
         }catch (Exception e){
             logger.error(e.getMessage());

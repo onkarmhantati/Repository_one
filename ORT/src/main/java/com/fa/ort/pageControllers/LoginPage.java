@@ -14,7 +14,7 @@ public class LoginPage extends PageControl {
     public static GuiControl btnLogin=new GuiControl(getElementConfig("btnLogin"));
 
 
-    public static void login(String username,String password){
+    public static void  login(String username,String password){
         try {
             logger.info("Inside Login Method");
             txtUserName.waitForElementToVisible(10);

@@ -40,6 +40,7 @@ public class GuiControl {
     private Config controlconfig;
 
 
+
     public GuiControl(){
 
     }
@@ -311,6 +312,7 @@ public class GuiControl {
                 break;
         }
         setWebDriver(browser.name(),desiredCapabilities);
+        //webDriver.manage().window().maximize();
     }
 
     public static void setWebDriver(String browser,DesiredCapabilities desiredCapabilities){
@@ -337,7 +339,7 @@ public class GuiControl {
         webDriver.manage().window().maximize();
     }
 
-    private static String getDriverPath(String browserName){
+    private static String   getDriverPath(String browserName){
         String osName=System.getProperty("os.name").toLowerCase();
         String driverPath=null;
         if(osName.contains("win")){

@@ -14,10 +14,11 @@ public class TC_Login extends Test_templet {
     public static Logger logger = Logger.getLogger(TC_Login.class);
 
     @Test(dataProvider = "ORT_Data_Provider")
-    public void validLogin(String username, String password, String message) {
+        public void validLogin(String username, String password, String message) {
         boolean result = true;
         try {
             LoginPage.login(username, password);
+            Thread.sleep(2000);
 
             System.out.println("Login successfully....");
 
