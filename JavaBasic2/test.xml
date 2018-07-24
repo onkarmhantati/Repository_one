@@ -1,0 +1,8 @@
+<suite thread-count="2" verbose="10" name="testSuite" parallel="tests">
+    <test verbose="2" name="MytestCase" >
+        <classes>
+            <class name="selenium.ClassA" />
+            <class name="selenium.ClassB"/>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<suite name="HarmonyAutomation">
+<listener/>
+<test name="FailTestSuite">
+<classes>
+<class name="abc.pqr"/>
+<class name="xyz.lmn"/>
+</classes>
+</test>
+</suite>
